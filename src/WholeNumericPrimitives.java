@@ -6,6 +6,10 @@ public class WholeNumericPrimitives {
         long n = 2_300;
 
 
+        System.out.println("Test");
+
+
+
         System.out.println("Welcome! This program is a quick crash course on adding different bases. " +
                 "Representing the number in both their original & reflected form.");
         // octal (0-7)
