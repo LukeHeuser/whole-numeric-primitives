@@ -27,7 +27,8 @@ public class WholeNumericPrimitives {
         int secondBin = 0b10111; // 7 decimal
         int sumBin = firstBin + secondBin; //  16 decimal, 10000 binary
 
-        System.out.println("First binary = " + firstBin + " | Second binary = " + secondBin);
+        System.out.print("First binary = " + firstBin + " | Second binary = " + secondBin);
         System.out.println("Decimal sum = " + sumBin + " Binary Sum = " + Integer.toBinaryString(sumBin));
+
     }
 }
